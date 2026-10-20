@@ -1,0 +1,7 @@
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\bin\Debug\LS7 Schleifen.exe.config
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\bin\Debug\LS7 Schleifen.exe
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\bin\Debug\LS7 Schleifen.pdb
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\obj\Debug\LS7 Schleifen.csproj.AssemblyReference.cache
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\obj\Debug\LS7 Schleifen.csproj.CoreCompileInputs.cache
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\obj\Debug\LS7 Schleifen.exe
+C:\Users\leoni\OneDrive - sluz\IMS\Sursee\M319\LS7 Schleifen\LS7 Schleifen\obj\Debug\LS7 Schleifen.pdb
